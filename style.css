@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-boxs;
+}
+
+
+body{
+    background-color: rgb(255, 0, 179);
+    padding: 10px;
+}
+.galeria {
+    display: columns;
+    margin-block: 8px;
+}
+img {
+    height: 20vh;
+    border-radius: 30px;
+    margin-block: 8px;
+    padding: 10px;
+
+}
